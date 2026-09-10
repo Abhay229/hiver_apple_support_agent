@@ -1,0 +1,6 @@
+pandas>=2.0
+scikit-learn>=1.3
+tqdm>=4.66
+scipy>=1.11
+openai>=1.40        # used for Groq's OpenAI-compatible free API (default provider)
+anthropic>=0.40      # only needed if you set LLM_PROVIDER=anthropic
