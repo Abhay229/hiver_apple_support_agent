@@ -1,0 +1,31 @@
+gold_id,human_groundedness,human_helpfulness,human_tone_fit,human_safety_pass,human_justification
+G074,3,3,4,true,Plausible tone but assumes Apple Music context not explicitly confirmed by customer
+G025,4,4,4,true,Matches real update+backup pattern for text-replacement bug family
+G052,5,5,4,true,Exact match to known autocorrect bug workaround pattern
+G182,2,2,3,true,Generic DM escalation ignores that customer already updated to 11.3
+G102,3,3,4,true,Points to an article but skips the actual diagnostic questions
+G041,5,5,3,true,Direct actionable workaround link low warmth but functional
+G129,1,1,3,true,Nearest-neighbor mismatch phishing article irrelevant to settings/Facebook login question
+G089,4,3,4,true,Reasonable follow-up confirming DM receipt
+G149,3,3,3,true,Generic escalation no specific content
+G138,4,4,4,true,Relevant diagnostic question about software version
+G140,4,4,4,true,Relevant phishing-reporting article
+G173,2,2,3,true,Generic canned line reused from unrelated bug does not address battery/WiFi specifics
+G156,1,1,2,true,Mismatch talks about Developer support ignores customer-service complaint entirely
+G163,1,1,3,true,Mismatch talks about an unrelated autocorrect fix ignores the actual used-iPhone question
+G121,1,1,2,true,Mismatch treats severe hardware failure as a display-brightness setting question
+G208,1,1,3,true,Mismatch mentions misspelled unrelated to repair status page 403 error
+G206,3,2,3,true,Escalates a general policy question unnecessarily instead of answering publicly
+G103,3,3,3,true,Reasonable generic escalation given genuine need for device specifics
+G054,4,4,4,true,Matches known bug workaround pattern well
+G202,3,3,3,true,Reasonable diagnostic follow-up does not address warranty ask directly
+G010,5,5,3,true,Exact match to autocorrect bug workaround
+G047,3,2,3,true,Generic escalation no content addressing Night Shift specifically
+G205,1,1,2,true,Mismatch asks about notifications ignores physical keyboard/repair complaint and refund request
+G050,5,5,3,true,Exact match to autocorrect bug workaround
+G051,2,2,3,true,Generic reused workaround line likely wrong for home-button/media-key issue
+G069,4,4,4,true,Well matched routes purchase/delivery question to Sales Support
+G115,2,2,3,true,Generic DM escalation ignores the specific screenshot/white-screen bug
+G183,4,3,4,true,Reasonable hardware-replacement flow asks country appropriately
+G045,3,3,3,true,Actionable but generic reinstall suggestion
+G068,1,1,2,true,Mismatch treats a cable/hardware question as a billing/account issue
